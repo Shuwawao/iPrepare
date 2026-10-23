@@ -12,6 +12,8 @@
     <dimen name="spacing_3xl">40dp</dimen>
 
     <!-- Screen margins -->
+    <dimen name="screen_margin_horizontal">16dp</dimen>
+    <dimen name="screen_margin_vertical">16dp</dimen>
     <dimen name="screen_padding_horizontal">20dp</dimen>
     <dimen name="screen_padding_vertical">16dp</dimen>
 
