@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_modules"
+        android:icon="@drawable/ic_modules"
+        android:title="Modules" />
+
+    <!-- 🆕 PREPARE TAB -->
+    <item
+        android:id="@+id/nav_prepare"
+        android:icon="@drawable/ic_prepare"
+        android:title="Prepare" />
+
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="Quiz" />
+</menu>

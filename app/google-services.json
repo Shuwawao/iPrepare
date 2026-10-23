@@ -1,0 +1,23 @@
+{
+  "project_info": {
+    "project_number": "941282170955",
+    "project_id": "iprepare-5c8b3",
+    "storage_bucket": "iprepare-5c8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941282170955:android:eedb6e7b03aa18e040d5ce",
+        "android_client_info": {
+          "package_name": "com.example.iprepare"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Wd3tFSYAG6jn3js6IuPWp3l8OkkLQBw"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

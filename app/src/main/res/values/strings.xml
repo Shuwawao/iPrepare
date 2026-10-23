@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iPrepare</string>
+    <string name="app_tagline">Philippine Disaster Preparedness &amp; Safety</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_modules">Modules</string>
+    <string name="nav_prepare">Prepare</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_emergency">Emergency Hotlines</string>
+    <string name="nav_updates">Updates &amp; Announcements</string>
+    <string name="nav_logout">Log Out</string>
+
+    <!-- Disaster Topics -->
+    <string name="earthquake">Earthquake</string>
+    <string name="flood">Flood</string>
+    <string name="fire">Fire</string>
+    <string name="typhoon">Typhoon</string>
+
+    <!-- Actions -->
+    <string name="action_login">Log In</string>
+    <string name="action_register">Create Account</string>
+    <string name="action_get_started">Get Started</string>
+    <string name="action_forgot_password">Forgot Password?</string>
+    <string name="action_reset_password">Send Reset Link</string>
+    <string name="action_retry">Try Again</string>
+    <string name="action_back">Back</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_post">Post Announcement</string>
+</resources>
