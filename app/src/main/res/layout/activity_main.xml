@@ -68,7 +68,6 @@
         app:itemTextColor="@color/text_primary"
         app:itemShapeInsetStart="12dp"
         app:itemShapeInsetEnd="12dp"
-        app:itemShapeCornerRadius="8dp"
         app:menu="@menu/drawer_menu" />
 
 </androidx.drawerlayout.widget.DrawerLayout>
