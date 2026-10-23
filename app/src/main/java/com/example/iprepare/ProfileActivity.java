@@ -1,5 +1,7 @@
 package com.example.iprepare;
 
+import android.view.View;
+
 import android.animation.ObjectAnimator;
 import android.content.SharedPreferences;
 import android.graphics.Color;
